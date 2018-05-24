@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bücher
+subtitle: Was ich so lese :)
 permalink: /books/
 ---
 ## Meine Buchauswahl

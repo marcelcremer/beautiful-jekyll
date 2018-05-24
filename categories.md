@@ -2,6 +2,7 @@
 layout: page
 permalink: /categories/
 title: Kategorien
+subtitle: Was es hier so gibt
 ---
 
 
